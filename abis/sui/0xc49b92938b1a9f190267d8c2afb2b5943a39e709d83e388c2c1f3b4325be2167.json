@@ -1,0 +1,25 @@
+[
+	{
+		"fileFormatVersion": 6,
+		"address": "0xc49b92938b1a9f190267d8c2afb2b5943a39e709d83e388c2c1f3b4325be2167",
+		"name": "ola_st_sbuck",
+		"friends": [],
+		"structs": {
+			"OLA_ST_SBUCK": {
+				"abilities": {
+					"abilities": [
+						"Drop"
+					]
+				},
+				"typeParameters": [],
+				"fields": [
+					{
+						"name": "dummy_field",
+						"type": "Bool"
+					}
+				]
+			}
+		},
+		"exposedFunctions": {}
+	}
+]
